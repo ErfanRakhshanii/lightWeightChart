@@ -44,7 +44,7 @@ export default function Home() {
         horzLines: { color: "#444" }
       },
       width: chartContainerRef.current.clientWidth,
-      height: 700,
+      height: 701,
       crosshair: {
         vertLine: {
           width: 5,
