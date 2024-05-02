@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Before you clone the project and check it, I wanted to explain that I couldn’t find the BingX API on any website, not even through artificial intelligence or YouTube. However, you can review the project comments regarding fetching and making it dynamic.
 ## Getting Started
 
